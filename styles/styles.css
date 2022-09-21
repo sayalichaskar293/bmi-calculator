@@ -1,0 +1,62 @@
+
+h1{
+    background-color: #781C68;
+    color: #fff;
+    height: 180px;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    padding-top: 55px;
+  
+}
+
+
+.height{
+    width: 50%;
+    height: 150px;
+    background-color: #FFF5E4;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 25%;
+    margin-top: 50px;
+    color: #42032C;
+    font-size: medium;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.weight{
+    width: 50%;
+    height: 150px;
+    background-color: #FFF5E4;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 25%;
+    color: #42032C;
+    font-size: medium;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.calc{
+    text-align: center;
+    margin-left: 45%;
+    width: 120px;
+}
+
+.answer{
+    color: black;
+    background-color: #9ED2C6;
+    height: 70px;
+    margin-top: 15px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 10px;
+    border-radius: 20px;
+    font-family:'Times New Roman', Times, serif
+}
+
+::placeholder{
+    width: 370px;
+}
+
